@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+tensorflow
+keras
+uvicorn
+fastapi
+lstm
+statsmodels
+prophet
+xgboost
+openpyxl
